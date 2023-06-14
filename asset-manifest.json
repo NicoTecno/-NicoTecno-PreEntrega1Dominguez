@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NicoTecno/-NicoTecno-PreEntrega1Dominguez.git/static/css/main.d20202a4.css",
+    "main.js": "/NicoTecno/-NicoTecno-PreEntrega1Dominguez.git/static/js/main.f12900c9.js",
+    "static/js/787.5b5dfee8.chunk.js": "/NicoTecno/-NicoTecno-PreEntrega1Dominguez.git/static/js/787.5b5dfee8.chunk.js",
+    "static/media/carrito-de-compras.png": "/NicoTecno/-NicoTecno-PreEntrega1Dominguez.git/static/media/carrito-de-compras.96c73cb49987ccdf1154.png",
+    "index.html": "/NicoTecno/-NicoTecno-PreEntrega1Dominguez.git/index.html",
+    "main.d20202a4.css.map": "/NicoTecno/-NicoTecno-PreEntrega1Dominguez.git/static/css/main.d20202a4.css.map",
+    "main.f12900c9.js.map": "/NicoTecno/-NicoTecno-PreEntrega1Dominguez.git/static/js/main.f12900c9.js.map",
+    "787.5b5dfee8.chunk.js.map": "/NicoTecno/-NicoTecno-PreEntrega1Dominguez.git/static/js/787.5b5dfee8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20202a4.css",
+    "static/js/main.f12900c9.js"
+  ]
+}
